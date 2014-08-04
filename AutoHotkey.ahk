@@ -1,0 +1,9 @@
+RShift & (::SoundBeep
+RShift & )::SoundBeep
+RShift & `;::SoundBeep
+RShift & ,::SoundBeep
+RShift & .::SoundBeep
+RShift & '::SoundBeep
+LCtrl & s::SoundBeep
+LCtrl & c::SoundBeep
+LCtrl & v::SoundBeep
